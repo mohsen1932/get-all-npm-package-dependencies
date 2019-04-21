@@ -16,7 +16,9 @@ Run tests
 npm test
 ```
 
-##How to use
+
+## How to use
+
 Simply include index.js in your code page and use the function.
 
 ```js
@@ -27,3 +29,8 @@ const index = require('../index');
     console.log(response);
 })();
 ```
+
+
+## Contributing
+
+This is a open-source project. Fork the project, complete the code and send pull request.
