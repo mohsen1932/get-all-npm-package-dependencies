@@ -1,4 +1,8 @@
-const index = require('../index');
+/*
+* Created by Mohsen Barati
+* Github: https://github.com/mohsen1932
+* Email: mohsen1932@gmail.com
+*/
 var assert = require('assert');
 
 describe('getFromApi()', function() {

@@ -1,3 +1,8 @@
+/*
+* Created by Mohsen Barati
+* Github: https://github.com/mohsen1932
+* Email: mohsen1932@gmail.com
+*/
 const axios = require("axios");
 
 const getFromApi = async packageName => {
